@@ -14,5 +14,5 @@ zuul:
       serviceId: product-service
     common:
       path: /common/** 
-      serviceId: AIGOU-COMMON
+      serviceId: aigou-common
   prefix: /services #请求前缀
